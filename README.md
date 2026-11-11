@@ -1,4 +1,4 @@
-# AlgoGPT - CP/DSA Question Solver 
+# ThinkCode - CP/DSA Question Solver 
 
 ## Overview
 
